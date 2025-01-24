@@ -1,2 +1,2 @@
 # Viaggio a londra
-## svolto esercizo viaggio a Londra, impostato il file .html e dato una struttura, ho diviso in header e main (reputando non necessaria la presenza di un footer) e da qui ho sezionato il tutto lavorando separatamente su ciascua sezione.
+## svolto esercizo viaggio a Londra, impostato il file .html e dato una struttura, ho diviso in header e main (reputando non necessaria la presenza di un footer) e da qui ho sezionato il tutto lavorando separatamente su ciascun blocco.
